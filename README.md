@@ -5,7 +5,7 @@ Most of my work focuses on computational text processing, topic modelling, and p
 
 My current projects explore how machine learning techniques such as Latent Dirichlet Allocation (LDA), named entity recognition (NER), and keyword extraction can be adapted for literary corpora, cultural datasets, and historical archives. I work extensively with Bengali texts, using natural language processing (NLP) to model themes, classify documents, and build interpretive tools for researchers and students.
 
-### Featured Project
+### Featured Projects
 - [anvay](https://github.com/vinayakdasgupta/anvay): A web-based topic modelling tool for Bengali text corpora. Supports custom preprocessing, visualisations, and interpretive reports. Built with Python, Gensim, Flask, and Plotly.
 - [gridOCR](https://github.com/vinayakdasgupta/gridOCR): gridOCR is a desktop OCR tool for digitising historical printed books and periodicals.
 
