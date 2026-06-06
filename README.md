@@ -8,6 +8,7 @@ My current projects explore how machine learning techniques such as Latent Diric
 ### Featured Projects
 - [anvay](https://github.com/vinayakdasgupta/anvay): A web-based topic modelling tool for Bengali text corpora. Supports custom preprocessing, visualisations, and interpretive reports. Built with Python, Gensim, Flask, and Plotly.
 - [gridOCR](https://github.com/vinayakdasgupta/gridOCR): gridOCR is a desktop OCR tool for digitising historical printed books and periodicals.
+- [overdub](https://github.com/vinayakdasgupta/overdub): overdub is a multitrack recorder made as a PWA. #sideproject
 
 ### Other Links
 - 🔗 [Personal Website](https://vinayakdasgupta.github.io)
